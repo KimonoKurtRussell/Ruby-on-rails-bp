@@ -1,0 +1,1 @@
+## Standard Ruby on Rails setup
